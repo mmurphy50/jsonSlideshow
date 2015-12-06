@@ -1,0 +1,34 @@
+{
+  "slides": [
+    {
+      "title": "Your job",
+      "description": "(or is it you're job?)",
+      "image": "images/00_cover.jpg"
+    },
+    {
+      "title": "Step Two",
+      "description": "Do the second thing",
+      "image": "images/01_ingredients.jpg"
+    },
+    {
+      "title": "Step Three",
+      "description": "Do the third thing",
+      "image": "images/02_green-pops.jpg"
+    },
+    {
+      "title": "Step Four",
+      "description": "Do the fourth thing",
+      "image": "images/03_pretzels.jpg"
+    },
+    {
+      "title": "Step Five",
+      "description": "Do the fifth thing",
+      "image": "images/04_frankenstein-halloween-marshmallow-pops.jpg"
+    },
+    {
+      "title": "Step Six",
+      "description": "Do the fifth thing",
+      "image": "images/05_Frankenstein-Marshmallow-Pops_hz.jpg"
+    } 
+  ]
+}

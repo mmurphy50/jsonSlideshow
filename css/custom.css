@@ -1,0 +1,88 @@
+body {
+	max-width: 1000px;
+/*	font-family: Helvetica, Arial, sans-serif;*/
+    margin: auto;
+    margin-top: 5px;
+    align-content: center;
+}
+
+button {
+	width: 44px;
+	height: 44px;
+    background-color: white;
+    border: 1px solid black;
+    color: #bbbcbc;
+    display: inline;
+    font-size: 30px;
+    margin-right: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#btn0 {
+    width: 100px;
+    
+}
+
+#content {
+	width: 1000px;
+}
+
+/*.titleArea {*/
+	position: relative;
+	top: 365px;
+	padding: 0px;
+	background-color: rgba(0,0,0,0.15);
+	color: #854;
+}
+
+.titleArea > h2 {
+	font-size: 1.4em;
+}
+
+.slide {
+	width: 1000px;
+	height: 600px;
+	overflow: hidden;
+}
+
+#prev {
+/*    margin-right: 45px;*/
+    float: right;
+/*    display: inline-block;*/
+/*    vertical-align: top;*/
+/*    margin-top: 5px;*/
+    margin-bottom: 5px;
+/*    border: 1px solid black;*/
+/*    padding: 8px 16px;*/
+/*    position: fixed;*/
+/*    text-align: center;*/
+    color: black;
+    padding-bottom: 15px;
+       
+}
+#next {
+/*    margin-left: 45px;*/
+/*    margin-right: 25px;*/
+    float: right;
+/*    display: inline-block;*/
+/*    vertical-align: top;*/
+/*    margin-top: 5px;*/
+    margin-bottom: 5px;
+/*    margin-left: 10px;*/
+/*    border: 1px solid black;*/
+/*    padding: 8px 16px;*/
+    color: black;
+    padding-bottom: 15px;
+}
+
+#source {
+    position: absolute;
+    margin-top: -200px;
+}
+
+#source img {
+    max-width: 150px;
+    vertical-align: bottom;
+    
+}
